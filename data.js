@@ -14,9 +14,9 @@ let log = document.forms.log
 let arrForms = [reg, log]
 
 if(!nefor) {
-    
+    window.location.assign()
 } else {
-    
+    window.location.assign()
 }
 
 for(let form of arrForms) {
